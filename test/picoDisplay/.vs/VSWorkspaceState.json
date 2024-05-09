@@ -1,0 +1,22 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Local Machine": [
+      "out\\build\\x64-Debug",
+      "out\\install\\x64-Debug"
+    ]
+  },
+  "ExpandedNodes": [
+    "",
+    "\\examples",
+    "\\examples\\SSD1306_I2C_TEST",
+    "\\examples\\SSD1306_SPEED_TEST",
+    "\\examples\\SSD1306_TEXT",
+    "\\include",
+    "\\include\\ssd1306",
+    "\\src",
+    "\\src\\hardware",
+    "\\src\\ssd1306"
+  ],
+  "SelectedNode": "\\include\\ssd1306\\gpio.hpp",
+  "PreviewInSolutionExplorer": false
+}
